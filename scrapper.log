@@ -1,0 +1,233 @@
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\Python311\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-311.pyc', reloading
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:13:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:13:19] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:13:19] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask\\__pycache__\\debughelpers.cpython-311.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\Python311\\Lib\\__pycache__\\netrc.cpython-311.pyc', reloading
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:13:45] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:19:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:19:39] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:19:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:19:50] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:20:16] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:21:13] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:25:51] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:25:51] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:25:51] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:26:00] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:26:34] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:28:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:28:24] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:28:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:28:37] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:31:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:31:36] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:31:36] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:31:53] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:36:21] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:40:32] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:41:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:41:48] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:41:48] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:42:04] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:44:15] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:44:46] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:46:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:46:45] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:46:45] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:47:02] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:49:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:49:38] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:49:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:49:53] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\Python311\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-311.pyc', reloading
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:25:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:25:29] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:25:29] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:25:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask\\__pycache__\\debughelpers.cpython-311.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\Python311\\Lib\\__pycache__\\netrc.cpython-311.pyc', reloading
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\Python311\\Lib\\encodings\\__pycache__\\latin_1.cpython-311.pyc', reloading
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:25:49] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:29:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:29:23] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:29:23] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:29:38] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:30:13] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:37:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:37:45] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:37:45] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:38:27] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\Python311\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-311.pyc', reloading
+INFO:werkzeug:127.0.0.1 - - [14/May/2023 15:19:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2023 15:19:09] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2023 15:19:10] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2023 15:19:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask\\__pycache__\\debughelpers.cpython-311.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\Python311\\Lib\\__pycache__\\netrc.cpython-311.pyc', reloading
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2023 15:19:28] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-192-311
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2025 18:10:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2025 18:10:05] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2025 18:10:05] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2025 18:10:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Jul/2025 18:10:19] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\routing\\rules.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\sansio\\http.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\debug\\tbtools.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\routing\\matcher.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\routing\\exceptions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\sansio\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\routing\\map.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\routing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\sansio\\multipart.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\routing\\converters.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\middleware\\http_proxy.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\middleware\\dispatcher.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\middleware\\proxy_fix.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\middleware\\profiler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\middleware\\shared_data.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\middleware\\lint.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\datastructures\\auth.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\datastructures\\accept.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\datastructures\\csp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\datastructures\\etag.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\datastructures\\cache_control.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\datastructures\\file_storage.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\datastructures\\mixins.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\datastructures\\headers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\datastructures\\structures.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\werkzeug\\datastructures\\range.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\events.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\exc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\inspection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\log.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\schema.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\types.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\ext\\baked.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\ext\\automap.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\ext\\associationproxy.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\ext\\compiler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\ext\\hybrid.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\ext\\horizontal_shard.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\ext\\indexable.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\ext\\mutable.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\ext\\instrumentation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\ext\\serializer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\ext\\orderinglist.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\ext\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\orm\\bulk_persistence.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\orm\\base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\orm\\attributes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\orm\\clsregistry.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\orm\\context.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\orm\\collections.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\orm\\decl_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\orm\\decl_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\orm\\descriptor_props.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\sqlalchemy\\orm\\dependency.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-192-311
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\streamlit\\env_util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\streamlit\\delta_generator.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\streamlit\\elements\\heading.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\M S I\\PycharmProjects\\MR2\\.venv\\Lib\\site-packages\\streamlit\\runtime\\metrics_util.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-192-311
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-765-327
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 120-765-327
+INFO:werkzeug:127.0.0.1 - - [13/Jul/2025 22:20:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jul/2025 22:20:03] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Jul/2025 22:20:03] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Jul/2025 22:20:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Jul/2025 22:20:18] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jul/2025 22:20:18] "POST /review HTTP/1.1" 200 -
